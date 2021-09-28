@@ -14,7 +14,9 @@ For example, the tournament name for: https://smash.gg/tournament/super-con4-na-
 Results are written out into a csv named "tournament-name.csv". Each row represents a single match and are listed in the order they happened (this might be helpful for keeping track of player ratings):
 
 Winners Bracket
+
 Losers Bracket
+
 Grand Finals
 
 Credit to Athkore of the SCON4 community
