@@ -7,7 +7,7 @@ $ sh get-ordered-results apikey tournamentname
 Instructions on how to obtain an API key:
 https://developer.smash.gg/docs/authentication/
   
-You can find the tournament name in the URL of the event.
+You can find the tournament name in the smash.gg URL of the event.
 
 For example, the tournament name for: https://smash.gg/tournament/super-con4-na-biweekly-20 would be "super-con4-na-biweekly-20"
   
