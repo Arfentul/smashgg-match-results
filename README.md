@@ -2,7 +2,7 @@
 Scripts to pull match-by-match results from smash.gg
 
 Usage:
-$ sh get-ordered-results <apikey> <tournament name> 
+$ sh get-ordered-results apikey tournamentname 
   
 Instructions on how to obtain an API key:
 https://developer.smash.gg/docs/authentication/
