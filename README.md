@@ -1,5 +1,5 @@
-# smashgg-ordered-results
-Scripts to pull match-by-match results from smash.gg
+# smashgg-match-results
+Scripts to pull match-by-match results from smash.gg in the order they happened
 
 Usage:
 $ sh get-ordered-results apikey tournamentname 
